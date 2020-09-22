@@ -1,6 +1,6 @@
 <script>
 	let placeholder = "Paste any URL here!";
-	let URL = "";
+	let URL = "https://www.twitch.tv/tinydrago";
 	let output = "";
 	let successfulCopy = false;
 	
